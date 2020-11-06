@@ -1,0 +1,38 @@
+.NavParentDiv{
+    background-color: white;
+    padding: 14px;
+    display: flex;
+    text-align: right;
+    font-family: inter,serif;
+    border-bottom: 1px solid grey;
+    box-shadow: 0px 1px 2px 1px #888888;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+}
+.ZerodhaImgNav{
+  text-align: left;
+  margin-left: 200px;
+  margin-top: 15px;
+  height: 20px;
+}
+.LinkP{
+    margin-left: 305px;
+}
+.MenuLogoNav{
+    height: 30px;
+    margin-top: 25px;
+}
+.LinkNav{
+    margin-left: 55px;
+    text-decoration: none;
+    font-size: 15px;
+}
+.Signup{
+    padding: 6px;
+    width: 95px;
+    border: none;
+    background-color: rgba(15, 119, 255, 0.849);
+    color: white;
+    border-radius: 3px;
+    margin-left: 35px;
+}

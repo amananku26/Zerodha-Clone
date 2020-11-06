@@ -1,0 +1,17 @@
+.investText{
+    color: rgb(70, 70, 70);
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Signup{
+    padding: 12px;
+    width: 155px;
+    height: 50px;
+    border: none;
+    font-size: 25px;
+    margin-top: 20px;
+    background-color: rgba(15, 119, 255, 0.849);
+    color: white;
+    border-radius: 3px;
+    margin-left: 35px;
+}
